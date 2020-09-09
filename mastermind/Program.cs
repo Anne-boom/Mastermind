@@ -25,7 +25,7 @@ namespace mastermind
                     {
                         highscore = game.finalGuesses;
                         Console.WriteLine("Congratulation, you have a new highscore.");
-                        Console.WriteLine("In your best game you guessed the code in " + highscore + " guesses.");
+                        Console.WriteLine("In your best game you guessed the code in " + highscore + " guesses");
                     }
 
                 }
